@@ -1,0 +1,78 @@
+Player 1	12	13	13500	15000	Player 1 bought Electric Company
+Player 2	12	13	13548	14952	Player 2 paid rent for Electric Company
+-----------------------------------------------------------------------------------------------------------
+Player 1	13548	have: Electric Company
+Player 2	14952	have: 
+Banker	101500
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	4	17	11748	14952	Player 1 bought Bow Street
+Player 2	4	17	12468	14232	Player 2 paid rent for Bow Street
+-----------------------------------------------------------------------------------------------------------
+Player 1	12468	have: Electric Company,Bow Street
+Player 2	14232	have: 
+Banker	103300
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	6	1	12668	14232	Player 1 draw Advance to go (Collect $200)
+Player 2	6	27	12668	11632	Player 2 draw Advance to Leicester Square Player 2 bought Leicester Square
+-----------------------------------------------------------------------------------------------------------
+Player 1	12668	have: Electric Company,Bow Street
+Player 2	11632	have: Leicester Square
+Banker	105700
+Winner Player 1
+-----------------------------------------------------------------------------------------------------------
+Player 1	5	6	10668	11632	Player 1 bought Kings Cross Station
+Player 2	4	11	10668	11632	Player 2 went to jail
+Player 1	8	14	9268	11632	Player 1 bought Whitehall
+Player 2	9	11	9268	11632	Player 2 in jail (count=1)
+-----------------------------------------------------------------------------------------------------------
+Player 1	9268	have: Electric Company,Bow Street,Kings Cross Station,Whitehall
+Player 2	11632	have: Leicester Square
+Banker	109100
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	7	21	9268	11632	Player 1 is in Free Parking
+Player 2	6	11	9268	11632	Player 2 in jail (count=2)
+-----------------------------------------------------------------------------------------------------------
+Player 1	9268	have: Electric Company,Bow Street,Kings Cross Station,Whitehall
+Player 2	11632	have: Leicester Square
+Banker	109100
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	4	25	6868	11632	Player 1 bought Trafalgar Square
+Player 2	4	11	6868	11632	Player 2 in jail (count=3)
+-----------------------------------------------------------------------------------------------------------
+Player 1	6868	have: Electric Company,Bow Street,Kings Cross Station,Whitehall,Trafalgar Square
+Player 2	11632	have: Leicester Square
+Banker	111500
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	6	11	6868	11632	Player 1 went to jail
+Player 2	6	17	7588	10912	Player 2 paid rent for Bow Street
+Player 1	4	11	7588	10912	Player 1 in jail (count=1)
+Player 2	4	21	7588	10912	Player 2 is in Free Parking
+-----------------------------------------------------------------------------------------------------------
+Player 1	7588	have: Electric Company,Bow Street,Kings Cross Station,Whitehall,Trafalgar Square
+Player 2	10912	have: Leicester Square
+Banker	111500
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	6	11	7588	10912	Player 1 in jail (count=2)
+Player 2	6	27	7588	10912	Player 2 has Leicester Square
+Player 1	4	11	7588	10912	Player 1 in jail (count=3)
+Player 2	4	11	7588	10912	Player 2 went to jail
+-----------------------------------------------------------------------------------------------------------
+Player 1	7588	have: Electric Company,Bow Street,Kings Cross Station,Whitehall,Trafalgar Square
+Player 2	10912	have: Leicester Square
+Banker	111500
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	6	17	7588	10912	Player 1 has Bow Street
+Player 2	6	11	7588	10912	Player 2 in jail (count=1)
+-----------------------------------------------------------------------------------------------------------
+Player 1	7588	have: Electric Company,Bow Street,Kings Cross Station,Whitehall,Trafalgar Square
+Player 2	10912	have: Leicester Square
+Banker	111500
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
